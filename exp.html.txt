@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rohan Aaron Indupally</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+header { background: #333; color: white; padding: 20px; text-align: center; }
+section { max-width: 900px; margin: auto; padding: 20px; background: white; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); }
+nav { text-align: center; margin: 20px 0; }
+nav a { margin: 0 15px; text-decoration: none; color: #333; font-weight: bold; }
+footer { text-align: center; padding: 10px; background: #333; color: white; margin-top: 20px; }
+</style>
+</head>
+<body>
+<header>
+<h1>Rohan Aaron Indupally</h1>
+<p>Robotics Enthusiast | Entrepreneur | Philanthropist</p>
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#projects">Projects</a>
+<a href="#experience">Experience</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+<h2>About Me</h2>
+<p>Hi! I'm Rohan, a passionate roboticist with a dream of building innovative solutions in assistive and medical robotics. Currently pursuing my Master's in Mechanical Engineering, I aim to start my own robotics company.</p>
+</section>
+
+<section id="projects">
+<h2>Projects</h2>
+<ul>
+<li>Quadrupedal Robot - Studying dynamic stability</li>
+<li>Amphibious Mobile Robot - Designed for land and water navigation</li>
+<li>Anthropomorphic Robotic Hand - Modeled and analyzed for optimal payload</li>
+</ul>
+</section>
+
+<section id="experience">
+<h2>Experience</h2>
+<p>Worked on multiple research projects, led robotics teams, and contributed to national competitions. My leadership roles include heading the Robotics Club and organizing tech fests.</p>
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Email: rohan.indupally@example.com</p>
+<p>LinkedIn: <a href="#">linkedin.com/in/rohanindupally</a></p>
+</section>
+
+<footer>
+<p>&copy; 2025 Rohan Aaron Indupally. All rights reserved.</p>
+</footer>
+</body>
+</html>
